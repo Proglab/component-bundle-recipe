@@ -1,7 +1,7 @@
 {
   "recipes": {
-    "proglab/components-bundle": [
-      "1.0.0"
+    "proglab/component-bundle": [
+      "1.0"
     ]
   },
   "branch": "master",
