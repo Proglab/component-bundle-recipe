@@ -1,6 +1,6 @@
 {
   "manifests": {
-    "proglab/components-bundle": {
+    "proglab/component-bundle": {
       "manifest": {
         "bundles": {
           "Proglab\\ComponentsBundle\\ProglabComponentsBundle": [
@@ -14,14 +14,14 @@
       "files": {
         "config/packages/proglab_components_bundle.yaml": {
           "contents": [
-            "proglab_components_bundle:",
+            "proglab_component_bundle:",
             "    encode: true",
             ""
           ],
           "executable": false
         }
       },
-      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff06"
+      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff07"
     }
   }
 }
