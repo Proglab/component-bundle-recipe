@@ -14,14 +14,14 @@
       "files": {
         "config/packages/proglab_components_bundle.yaml": {
           "contents": [
-            "proglab_component_bundle:",
+            "proglab_component:",
             "    encode: true",
             ""
           ],
           "executable": false
         }
       },
-      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff08"
+      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff09"
     }
   }
 }
