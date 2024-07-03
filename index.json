@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "proglab/component-bundle": [
+      "1.0"
+    ]
+  },
+  "branch": "master",
+  "is_contrib": true,
+  "_links": {
+    "repository": "https://github.com/Proglab/component-bundle-recipe",
+    "origin_template": "{package}:{version}@github.com/Proglab/component-bundle-recipe:master",
+    "recipe_template": "https://raw.githubusercontent.com/Proglab/component-bundle-recipe/master/contents/{package_dotted}.{version}.json"
+  }
+}

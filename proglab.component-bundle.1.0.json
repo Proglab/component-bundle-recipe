@@ -1,0 +1,27 @@
+{
+  "manifests": {
+    "proglab/component-bundle": {
+      "manifest": {
+        "bundles": {
+          "Proglab\\ComponentBundle\\ProglabComponentBundle": [
+            "all"
+          ]
+        },
+        "copy-from-recipe": {
+          "config/": "%CONFIG_DIR%"
+        }
+      },
+      "files": {
+        "config/packages/proglab_component_bundle.yaml": {
+          "contents": [
+            "proglab_component_bundle:",
+            "    encode: true",
+            ""
+          ],
+          "executable": false
+        }
+      },
+      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff00"
+    }
+  }
+}
