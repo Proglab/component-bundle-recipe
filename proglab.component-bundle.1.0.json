@@ -12,16 +12,24 @@
         }
       },
       "files": {
-        "config/packages/proglab_components_bundle.yaml": {
+        "config/packages/proglab_components.yaml": {
           "contents": [
             "proglab_component:",
             "    encode: true",
             ""
           ],
           "executable": false
+        },
+        "config/routes/proglab_components.yaml": {
+          "contents": [
+            "proglab_component:",
+            "    resource: '@ProglabComponentBundle/config/routes.yaml'",
+            ""
+          ],
+          "executable": false
         }
       },
-      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff09"
+      "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff10"
     }
   }
 }
